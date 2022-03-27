@@ -11,6 +11,7 @@
   inputs.src-cliptomania-master.ref   = "refs/heads/master";
   inputs.src-cliptomania-master.owner = "Guevara-chan";
   inputs.src-cliptomania-master.repo  = "Cliptomania";
+  inputs.src-cliptomania-master.dir   = "";
   inputs.src-cliptomania-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
