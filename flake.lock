@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1656300824,
-        "narHash": "sha256-27rMf4Q7ptNk0yoSwHVDxO56U2U5ciqV8T3ql5sqDUI=",
+        "lastModified": 1656746674,
+        "narHash": "sha256-VNkosLEW8IYibWaDEMdz8YckFNeweYkoY3wdu168OMg=",
         "owner": "nim-nix-pkgs",
         "repo": "cliptomania",
-        "rev": "70966022a43bc89511f40e06e3d05e3328f35189",
+        "rev": "66b2b1d95361778719fe65f3eca5881abeef63a1",
         "type": "github"
       },
       "original": {
