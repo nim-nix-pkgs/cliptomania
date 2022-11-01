@@ -12,11 +12,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1662254399,
-        "narHash": "sha256-NPWBJDsFbVtMIME9zWg56Mp8jsh3HsXy5ygGO8wtVeY=",
+        "lastModified": 1667322201,
+        "narHash": "sha256-iAGc8aelLw0hpHH11E4U9KDFQTBwGzeLYmPSVm5Tvzg=",
         "owner": "nim-nix-pkgs",
         "repo": "cliptomania",
-        "rev": "a2aab707ac05141de06937941db23b9dfa1456f0",
+        "rev": "c7a997bf9442ec1392f84f06fe90cad516d134ce",
         "type": "github"
       },
       "original": {
@@ -50,11 +50,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1667110639,
-        "narHash": "sha256-4FbPESZ5LbqQxkJJJBAfk/zKgF9h/4kyUwjjpJwYlbc=",
+        "lastModified": 1667199707,
+        "narHash": "sha256-I2Js3Y7gUyVSEXPULHlBoRek4Lh85vnevdS6mdvDNLI=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "f38a1f04d1bec1feb61fd101a0539ae2002a7087",
+        "rev": "ced197be72099edcfa68ebed8b87af7b04851f45",
         "type": "github"
       },
       "original": {
